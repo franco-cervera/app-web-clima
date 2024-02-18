@@ -26,27 +26,27 @@ body {
 }
 
 h2 {
-  font-size: 28px; /* Tamaño de fuente más grande */
-  color: #333; /* Color de texto predeterminado */
-  font-weight: bold; /* Texto en negrita */
-  text-transform: uppercase; /* Convertir el texto en mayúsculas */
-  letter-spacing: 1px; /* Espaciado entre letras */
-  margin-bottom: 20px; /* Margen inferior */
+  font-size: 28px; 
+  color: #333; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  margin-bottom: 20px; 
 }
 
 p {
-  font-size: 18px; /* Tamaño de fuente más grande */
-  color: #333; /* Cambio de color de texto */
-  margin-bottom: 10px; /* Margen inferior */
-  line-height: 1.5; /* Altura de línea */
-  padding: 10px; /* Padding para resaltar */
-  background-color: rgb(183, 217, 247); /* Color de fondo del padding con opacidad del 50% */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra para resaltar */
+  font-size: 18px; 
+  color: #333; 
+  margin-bottom: 10px; 
+  line-height: 1.5; 
+  padding: 10px; 
+  background-color: rgb(183, 217, 247); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
 }
 
 .icono-clima {
-  width: 100px; /* Ancho de la imagen */
-  height: 100px; /* Alto de la imagen */
+  width: 100px; 
+  height: 100px; 
 }
   
   input[type="text"] {
@@ -56,14 +56,14 @@ p {
   }
   
   button {
-    background-color: #3b5998; /* Color de fondo azul asociado con el clima */
-    color: #fff; /* Color de texto blanco para resaltar en fondos oscuros */
-    border: none; /* Elimina el borde */
-    padding: 10px 20px; /* Espaciado interno */
-    font-size: 16px; /* Tamaño de fuente */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
-    border-radius: 5px; /* Bordes redondeados */
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para resaltar el botón */
+    background-color: #3b5998; 
+    color: #fff; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
   }
 
   .boton-css:hover {
